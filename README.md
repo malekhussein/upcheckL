@@ -45,7 +45,7 @@ Now you can run ``upcheck``.
 
 # 📝 Usage
 ```bash
-cd "The name of the project folder that you carried"
+cd upcheckL
 upcheck
 ```
 You will see:
