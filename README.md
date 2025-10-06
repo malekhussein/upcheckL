@@ -32,7 +32,7 @@ bun --version
 
 # Step 2: Clone the project
 ```bash
-git clone https://github.com/linuxawy/upcheck.git
+git clone https://github.com/malekhussein/upcheckL.git
 cd upcheck
 ```
 
