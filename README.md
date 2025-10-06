@@ -33,7 +33,7 @@ bun --version
 # Step 2: Clone the project
 ```bash
 git clone https://github.com/malekhussein/upcheckL.git
-cd upcheck
+cd upcheckL/
 ```
 
 # Step 3: Make the CLI executable and put it in your PATH
